@@ -1,0 +1,21 @@
+{
+  "name": "ironyun",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "type": "module",
+  "dependencies": {
+    "axios": "^0.27.2",
+    "dotenv": "^16.0.0",
+    "form-data": "^4.0.0",
+    "fs": "^0.0.1-security",
+    "glob": "^8.0.1",
+    "glob-promise": "^4.2.2",
+    "graphql": "^16.4.0",
+    "graphql-request": "^4.2.0",
+    "url": "^0.11.0"
+  },
+  "scripts": {
+    "start": "node ./src/index.js"
+  }
+}
